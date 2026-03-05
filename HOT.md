@@ -1,7 +1,9 @@
 # 🟠 HOT — Interactive Data-Driven Site
 
 **Difficulty:** Hot
+
 **Deployment:** GitHub Pages (see [GITHUB_PAGES.md](GITHUB_PAGES.md))
+
 **API required:** Yes, at least one public API
 
 ---
