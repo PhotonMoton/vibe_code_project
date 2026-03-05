@@ -1,7 +1,9 @@
 # 🟢 MILD — 3-Page Static Passion Site
 
 **Difficulty:** Mild
+
 **Deployment:** GitHub Pages (see [GITHUB_PAGES.md](GITHUB_PAGES.md))
+
 **API required:** No
 
 ---
