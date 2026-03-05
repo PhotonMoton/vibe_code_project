@@ -1,7 +1,9 @@
 # 🔴 SPICY — Deployed Web App with Persistent Data
 
 **Difficulty:** Spicy
+
 **Deployment:** Required, live URL required (GitHub Pages or equivalent)
+
 **API required:** Yes, at least one (external or your own)
 
 ---
