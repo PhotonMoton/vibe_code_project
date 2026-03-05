@@ -2,7 +2,7 @@
 
 **Difficulty:** Spicy
 
-**Deployment:** Required, live URL required (GitHub Pages or equivalent)
+**Deployment:** GitHub Pages (see [GITHUB_PAGES.md](GITHUB_PAGES.md))
 
 **API required:** Yes, at least one (external or your own)
 
