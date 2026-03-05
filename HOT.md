@@ -1,4 +1,4 @@
-# 🟠 HOT — Interactive Data-Driven Site
+# 🟠 Interactive Data-Driven Site
 
 **Difficulty:** Hot
 
