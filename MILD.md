@@ -1,4 +1,4 @@
-# 🟢 MILD — 3-Page Static Passion Site
+# 🟢 3-Page Static Passion Site
 
 **Difficulty:** Mild
 
