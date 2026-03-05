@@ -1,5 +1,3 @@
-// app.js — starter JavaScript file
-
 // -------------------------------------------------------
 // Example: Run code after the page has fully loaded
 // -------------------------------------------------------
