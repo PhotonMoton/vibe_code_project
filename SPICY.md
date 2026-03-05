@@ -1,4 +1,4 @@
-# 🔴 SPICY — Deployed Web App with Persistent Data
+# 🔴 Deployed Web App with Persistent Data
 
 **Difficulty:** Spicy
 
